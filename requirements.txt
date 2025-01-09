@@ -3,7 +3,7 @@
 streamlit==1.18.0
 
 # TensorFlow for creating and training the ANN model
-tensorflow==2.11.0
+tensorflow==2.10.0
 
 # Numpy for numerical operations
 numpy==1.23.4
@@ -25,3 +25,5 @@ pillow==9.2.0
 
 # Streamlit Components (optional, for adding widgets or custom elements)
 streamlit.components.v1==1.18.0
+python-3.9.12
+
