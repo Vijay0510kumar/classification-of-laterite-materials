@@ -1,10 +1,5 @@
-requirements = """
 streamlit
 tensorflow
 scikit-learn
 pandas
 numpy
-"""
-with open("requirements.txt", "w") as file:
-    file.write(requirements.strip())
-print("requirements.txt created!")
