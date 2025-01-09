@@ -1,29 +1,10 @@
-
-# Streamlit for the web app interface
 streamlit==1.18.0
-
-# TensorFlow for creating and training the ANN model
-tensorflow==2.10.0
-
-# Numpy for numerical operations
+tensorflow==2.17.1
 numpy==1.23.4
-
-# Pandas for handling data (if needed)
-pandas==1.5.1
-
-# Scikit-learn for model evaluation and utilities
+pandas==1.5.3
 scikit-learn==1.2.0
-
-# Matplotlib for visualizations (optional, if needed for plots)
 matplotlib==3.6.3
-
-# Keras (optional, it's part of TensorFlow but if using standalone Keras, include it)
-keras==2.11.0
-
-# Pillow (if handling images or processing image data)
 pillow==9.2.0
 
-# Streamlit Components (optional, for adding widgets or custom elements)
-streamlit.components.v1==1.18.0
-python-3.9.12
+
 
